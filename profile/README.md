@@ -2,6 +2,7 @@
 good luck, half this code is absolute dog 💩
 
 This project *should* have been a monorepo, instead I used a script to simulate one:
+(was made using Gitea API, won't work with Github)
 <details>
   <summary>batch.sh</summary>
   
